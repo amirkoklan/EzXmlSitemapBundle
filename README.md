@@ -7,6 +7,7 @@ Installation:
 
  * Clone to src
  * Add to ezpublish/EzPublishKernel.php
+ * Add Routing to ezpublish/config/routing.yml
  * Clear caches
 
 Usage:
